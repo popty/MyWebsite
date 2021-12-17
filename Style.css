@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
 .topnav{
     background-color: #333;
     overflow: hidden;
@@ -25,5 +26,6 @@
 .paragraph{
     background-color: #ddd;
     color: black;
-    font-family: monospace;
+    font-family: Oswald, monospace;
+    font-size: larger;
 }
